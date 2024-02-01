@@ -4,11 +4,14 @@ FHIR Artifact Registry
 Built on top of  [Canonical Resource](https://build.fhir.org/canonicalresource.html) Management Infrastructure - https://build.fhir.org/ig/HL7/crmi-ig/introduction.html
 
 Responsibilities:
+
 * Check and load all deps
 * resolve references
 * add package references
 * Derivatives -> FHIR Schema, GraphQL
 
+
+Features:
 
 * Introspect FHIR Packages (including IGs)- Search, Read, VRead
 * Build FHIR Packages (CRUD/History)
