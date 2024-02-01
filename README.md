@@ -1,7 +1,7 @@
 # FAR
 FHIR Artifact Registry
 
-Built on top of  Canonical Resource Management Infrastructure - https://build.fhir.org/ig/HL7/crmi-ig/introduction.html
+Built on top of  [Canonical Resource](https://build.fhir.org/canonicalresource.html) Management Infrastructure - https://build.fhir.org/ig/HL7/crmi-ig/introduction.html
 
 * Introspect FHIR Packages (including IGs)- Search, Read, VRead
 * Build FHIR Packages (CRUD/History)
